@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Noto+Sans+JP&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #110F29;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    color: aliceblue;
+}
+.fa{
+    color: aliceblue;
+    font-size: 25px;
+    opacity: 0.5;
+    text-decoration: none;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#title{
+    position: absolute;
+    top: 0;
+    margin-top: 30px;
+}
+#imgblock{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.social{
+    margin-top: 30px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tags{
+    opacity: 0.5;
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline;
+}
+#myname{
+    color: rgb(0, 149, 240);
+    font-weight: 50px;
+    display: inline;
+}
+.about-row{
+    margin: auto;
+    width: 80vw;
+    display: flex;
+    justify-content: center;
+}
+.colimg{
+    flex: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coldata{
+    flex: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#button{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 18px;
+    border-radius: 5px;
+    background-color: rgb(0, 149, 240);
+}
+#myImg{
+    position: absolute;
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+#border-blue{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 330px;
+    width: 330px;
+    border-radius: 50%;
+    border: 3px solid rgb(0, 149, 240);
+}
+
+.heading-init path:nth-child(1){
+    stroke-dasharray: 326.8614501953125;
+    stroke-dashoffset: 326.8614501953125;
+    animation: heading-anim 3s ease forwards;
+}
+.heading-init path:nth-child(2){
+    stroke-dasharray: 406.8183288574219;
+    stroke-dashoffset: 406.8183288574219;
+    animation: heading-anim 3s ease forwards 0.3s;
+}
+.heading-init path:nth-child(3){
+    stroke-dasharray: 377.3002624511719;
+    stroke-dashoffset: 377.3002624511719;
+    animation: heading-anim 3s ease forwards 0.6s;
+}
+.heading-init path:nth-child(4){
+    stroke-dasharray: 322.5950927734375;
+    stroke-dashoffset: 322.5950927734375;
+    animation: heading-anim 3s ease forwards 0.9s;
+}
+.heading-init path:nth-child(5){
+    stroke-dasharray: 224.44796752929688;
+    stroke-dashoffset: 224.44796752929688;
+    animation: heading-anim 3s ease forwards 1.2s;
+}
+.heading-init path:nth-child(6){
+    stroke-dasharray: 503.284423828125;
+    stroke-dashoffset: 503.284423828125;
+    animation: heading-anim 3s ease forwards 1.5s;
+}
+.heading-init path:nth-child(7){
+    stroke-dasharray: 309.31201171875;
+    stroke-dashoffset: 309.31201171875;
+    animation: heading-anim 3s ease forwards 1.8s;
+}
+@keyframes heading-anim {
+    from{
+        fill: none;
+        stroke: aliceblue;
+    }
+    to{
+        stroke-dashoffset: 0;
+        fill: #FFA500;
+        stroke: none;
+    }
+}
+.progress-ring circle{
+    stroke-dashoffset: 942.096923828125;
+    stroke-dasharray: 942.096923828125;
+    animation: ring-anim 3s ease forwards 0.3s;
+}
+@keyframes ring-anim {
+    to{
+        stroke-dashoffset: 0;
+    }
+}
+@media screen and (max-width:1024px) {
+    .about-row{
+        margin-top: 150px;
+        flex-direction: column;
+    }
+    .social{
+        flex: 100%;
+        margin: 25px;
+    }
+    #about-heading{
+        width: 50vw;
+    }
+    #myname{
+        font-size: 30px;
+    }
+    .tags{
+        font-size: 12px;
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+}
+@media screen and (max-width: 470px){
+    body{
+        overflow-x: hidden;
+    }
+    #myImg{
+        height: 200px;
+        width: 200px;
+    }
+    .tags{
+        display: block;
+    }
+    #button{
+        display: block;
+    }
+    #myname{
+        display: block;
+    }
+    
+}
