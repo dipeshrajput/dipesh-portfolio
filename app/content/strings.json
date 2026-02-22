@@ -1,0 +1,228 @@
+{
+  "base": {
+    "nav": {
+      "about": "About",
+      "skills": "Skills",
+      "projects": "Projects",
+      "experience": "Experience",
+      "achievements": "Achievements",
+      "contact": "Contact"
+    },
+    "buttons": {
+      "hire": "Hire Me",
+      "viewProjects": "View Projects",
+      "contact": "Contact Me",
+      "downloadCv": "Download CV",
+      "send": "Send Message"
+    },
+    "hero": {
+      "badge": "Full Stack Developer | ServiceNow Developer",
+      "headlineLead": "Building Scalable Systems",
+      "precisionLine": "with Precision.",
+      "subtitle": "Full Stack Developer | Networking Enthusiast | Problem Solver",
+      "specializingLabel": "Specializing in:",
+      "profileTag": "Developer Profile",
+      "profileRole": "Full Stack Developer | ServiceNow Developer",
+      "profileSummary": "India based software engineer focused on scalable architecture, portal engineering, enterprise workflow automation, and resilient backend systems.",
+      "statStories": "User Stories",
+      "statLeetCode": "LeetCode",
+      "statCodeChef": "CodeChef Rating",
+      "statCerts": "ServiceNow Certs"
+    },
+    "dividers": [
+      "Water Breathing - Flow Shift",
+      "Flame Breathing - Momentum Rise",
+      "Thunder Breathing - Project Burst",
+      "Stone Breathing - Stability Guard",
+      "Wind Breathing - Merit Flux",
+      "Sun Breathing - Connection Pulse"
+    ],
+    "sections": {
+      "about": {
+        "eyebrow": "About",
+        "title": "Professional Summary",
+        "description": "ServiceNow Developer at Accenture since July 2023, delivering high-impact enterprise solutions through full stack engineering discipline and workflow automation."
+      },
+      "skills": {
+        "eyebrow": "Skills",
+        "title": "Technical Arsenal",
+        "description": "Categorized strengths across frontend, backend, ServiceNow platform engineering, programming languages, and core computer science."
+      },
+      "projects": {
+        "eyebrow": "Projects",
+        "title": "Featured Engineering Work",
+        "description": "Production-style and systems-focused projects with strong architecture, user experience, and reliability considerations."
+      },
+      "experience": {
+        "eyebrow": "Experience",
+        "title": "Accenture | ServiceNow Developer"
+      },
+      "achievements": {
+        "eyebrow": "Achievements",
+        "title": "Competitive and Certified"
+      },
+      "contact": {
+        "eyebrow": "Contact",
+        "title": "Let's Build Something Meaningful",
+        "description": "Open to software engineering opportunities, collaboration, and platform modernization projects."
+      }
+    },
+    "aboutCards": [
+      {
+        "title": "Current Role",
+        "text": "Working as a ServiceNow Developer at Accenture since July 2023, delivering scalable workflows, automation improvements, and user-centric enterprise portal experiences."
+      },
+      {
+        "title": "Execution Depth",
+        "text": "Delivered 100+ user stories and bug fixes while building custom Service Portal widgets from scratch using JavaScript, AngularJS, and robust platform scripting."
+      },
+      {
+        "title": "ServiceNow Core",
+        "text": "Strong in workflows, UI Actions, Client Scripts, and Business Rules, with proven capability in building maintainable and performance-aware enterprise solutions."
+      },
+      {
+        "title": "Computer Science Foundation",
+        "text": "Strong fundamentals in Networking, Operating Systems, DBMS, System Design, and algorithmic problem solving with 810+ solved LeetCode problems."
+      }
+    ],
+    "experienceTimeline": "July 2023 - Present",
+    "experienceBullets": [
+      "Custom widget development for Service Portal with enhanced usability and maintainability.",
+      "Complex workflow automation using Business Rules, Client Scripts, UI Actions, and Flow Designer.",
+      "Delivered enterprise-grade improvements in performance and overall user experience.",
+      "Collaborated across teams to ship 100+ user stories and bug fixes on production timelines."
+    ],
+    "achievementTitles": {
+      "competitive": "Competitive Programming",
+      "certifications": "Certifications"
+    },
+    "achievementBullets": [
+      "810+ LeetCode Problems Solved",
+      "100+ Enterprise User Stories & Bug Fixes Delivered"
+    ],
+    "connectTitle": "Connect",
+    "contactForm": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "you@example.com",
+      "subjectPlaceholder": "Project discussion",
+      "messagePlaceholder": "Tell me about your project..."
+    },
+    "footerQuote": "Code with Discipline. Deploy with Honor."
+  },
+  "themes": {
+    "eren": {
+      "hero": { "precisionLine": "with Titan Resolve - Rumbling Drive." },
+      "buttons": { "hire": "Join The Mission" },
+      "dividers": [
+        "Founding Titan - Resolve Shift",
+        "Survey Corps - Tactical Rise",
+        "ODM Burst - Project Charge",
+        "Wall Defense - Stability Guard",
+        "Final Push - Merit Surge",
+        "Freedom Path - Contact Signal"
+      ],
+      "sections": {
+        "skills": { "title": "Combat Stack" },
+        "projects": { "title": "Mission-Critical Projects" }
+      },
+      "footerQuote": "Code for Freedom. Ship with Resolve."
+    },
+    "levi": {
+      "hero": { "precisionLine": "with Ackerman Focus - Clean Precision." },
+      "buttons": { "hire": "Deploy Precision" },
+      "dividers": [
+        "Ackerman Focus - Calm Shift",
+        "Squad Discipline - Momentum Rise",
+        "Blade Arc - Project Burst",
+        "Clean Execution - Stability Guard",
+        "Elite Record - Merit Flux",
+        "Signal Ready - Connection Pulse"
+      ],
+      "sections": {
+        "skills": { "title": "Precision Stack" }
+      },
+      "footerQuote": "Code Clean. Deliver Ruthlessly."
+    },
+    "tanjiro": {
+      "hero": { "precisionLine": "with Water Breathing - Flow Precision." },
+      "buttons": { "hire": "Summon Discipline" },
+      "footerQuote": "Code with Discipline. Deploy with Honor."
+    },
+    "rengoku": {
+      "hero": { "precisionLine": "with Flame Breathing - Unbroken Honor." },
+      "buttons": { "hire": "Ignite Collaboration" },
+      "dividers": [
+        "Flame Form - Spirit Shift",
+        "Blazing Rhythm - Momentum Rise",
+        "Inferno Arc - Project Burst",
+        "Burning Guard - Stability Guard",
+        "Radiant Merit - Merit Flux",
+        "Sunlit Bond - Connection Pulse"
+      ],
+      "footerQuote": "Code with Heart. Deploy with Flame."
+    },
+    "senku": {
+      "hero": { "precisionLine": "with Kingdom of Science - 10 Billion Precision." },
+      "buttons": { "hire": "Build With Science" },
+      "dividers": [
+        "Science Formula - Logic Shift",
+        "Lab Momentum - Discovery Rise",
+        "Prototype Strike - Project Burst",
+        "Measured Reliability - Stability Guard",
+        "10 Billion Merit - Merit Flux",
+        "Signal Transmission - Connection Pulse"
+      ],
+      "sections": {
+        "about": { "title": "Scientific Summary" },
+        "skills": { "title": "Research-Grade Stack" }
+      },
+      "footerQuote": "Code by Science. Deploy by Proof."
+    },
+    "tsukasa": {
+      "hero": { "precisionLine": "with Primal Force - Stone World Dominance." },
+      "buttons": { "hire": "Forge Alliance" },
+      "footerQuote": "Code with Strength. Deploy with Authority."
+    },
+    "chrome": {
+      "hero": { "precisionLine": "with Inventor Spirit - Curious Momentum." },
+      "buttons": { "hire": "Invent Together" },
+      "sections": {
+        "projects": { "title": "Experimental Build Lab" }
+      },
+      "footerQuote": "Code with Curiosity. Deploy with Ingenuity."
+    },
+    "ukyo": {
+      "hero": { "precisionLine": "with Sonic Sight - Golden Clarity." },
+      "buttons": { "hire": "Tune Collaboration" },
+      "dividers": [
+        "Sonic Sight - Clarity Shift",
+        "Echo Flow - Momentum Rise",
+        "Signal Sync - Project Burst",
+        "Range Lock - Stability Guard",
+        "Golden Merit - Merit Flux",
+        "Clear Channel - Connection Pulse"
+      ],
+      "footerQuote": "Code with Clarity. Deploy with Precision."
+    },
+    "light": {
+      "hero": { "precisionLine": "with Kira Calculus - Absolute Strategy." },
+      "buttons": { "hire": "Start Strategy" },
+      "sections": {
+        "projects": { "title": "Strategic Systems Portfolio" }
+      },
+      "footerQuote": "Code with Strategy. Deploy with Control."
+    },
+    "l": {
+      "hero": { "precisionLine": "with Deductive Instinct - Perfect Counterplay." },
+      "buttons": { "hire": "Open Investigation" },
+      "sections": {
+        "skills": { "title": "Analytical Stack" }
+      },
+      "footerQuote": "Code with Logic. Deploy with Certainty."
+    }
+  }
+}

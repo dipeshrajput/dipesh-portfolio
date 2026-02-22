@@ -1,0 +1,122 @@
+{
+  "profile": {
+    "name": "Dipesh",
+    "role": "Full Stack Developer | ServiceNow Developer",
+    "location": "India",
+    "cvPath": "/Deepesh_Rongara_CV.pdf"
+  },
+  "navLinks": [
+    { "href": "#about", "label": "About" },
+    { "href": "#skills", "label": "Skills" },
+    { "href": "#projects", "label": "Projects" },
+    { "href": "#experience", "label": "Experience" },
+    { "href": "#achievements", "label": "Achievements" },
+    { "href": "#contact", "label": "Contact" }
+  ],
+  "typingSkills": [
+    "ServiceNow Development",
+    "Full Stack Engineering",
+    "System Design Thinking",
+    "Workflow Automation",
+    "Scalable API Architecture"
+  ],
+  "skillCategories": [
+    {
+      "title": "Frontend",
+      "items": ["HTML", "CSS", "JavaScript", "React", "Angular"],
+      "progress": 90
+    },
+    {
+      "title": "Backend",
+      "items": ["Node.js", "Express", "MongoDB"],
+      "progress": 86
+    },
+    {
+      "title": "ServiceNow",
+      "items": ["ITSM", "Flow Designer", "Integration Hub", "Service Portal", "CMDB", "ATF"],
+      "progress": 92
+    },
+    {
+      "title": "Programming",
+      "items": ["C++", "C", "Python", "SQL"],
+      "progress": 88
+    },
+    {
+      "title": "Core CS",
+      "items": ["Data Structures", "Algorithms", "Networking", "OS", "DBMS"],
+      "progress": 91
+    }
+  ],
+  "projects": [
+    {
+      "title": "Pastebin Clone",
+      "type": "End-to-End Project",
+      "description": "Built a secure full-stack paste sharing platform with expiry-based content lifecycle, authentication, rate limiting, REST APIs, and MongoDB persistence.",
+      "stack": ["Node.js", "Express", "MongoDB", "REST API", "Auth", "Rate Limit"],
+      "demo": "#",
+      "github": "#"
+    },
+    {
+      "title": "Real-Time Collaborative Editor",
+      "type": "Distributed Systems Project",
+      "description": "Engineered a multi-user editor with WebSocket synchronization, conflict handling, operational transformation concepts, and backend scalability planning.",
+      "stack": ["Socket.io", "WebSocket", "Operational Transformation", "Scalability"],
+      "demo": "#",
+      "github": "#"
+    },
+    {
+      "title": "Service Portal Widget Suite",
+      "type": "Enterprise UI Engineering",
+      "description": "Created reusable custom ServiceNow portal widgets from scratch to improve UX, automate user flows, and reduce manual service desk operations.",
+      "stack": ["Service Portal", "AngularJS", "JavaScript", "Automation"],
+      "demo": "#",
+      "github": "#"
+    },
+    {
+      "title": "Sorting Visualizer",
+      "type": "Algorithm Visual Platform",
+      "description": "Designed an interactive algorithm explorer with smooth visual transitions, controls for speed/data size, and multiple sorting strategy implementations.",
+      "stack": ["JavaScript", "Algorithms", "UI Animation"],
+      "demo": "#",
+      "github": "#"
+    }
+  ],
+  "certifications": [
+    "ServiceNow CSA Certified",
+    "ServiceNow CAD Certified",
+    "ServiceNow CIS-ITSM Certified"
+  ],
+  "socialLinks": [
+    {
+      "label": "Email",
+      "value": "dipeshsinghpawar@gmail.com",
+      "href": "mailto:dipeshsinghpawar@gmail.com"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "linkedin.com/in/deepesh-%E2%80%8E-210416192/",
+      "href": "https://www.linkedin.com/in/deepesh-%E2%80%8E-210416192/"
+    },
+    {
+      "label": "GitHub",
+      "value": "github.com/dipeshrajput",
+      "href": "https://github.com/dipeshrajput"
+    },
+    {
+      "label": "LeetCode",
+      "value": "leetcode.com/dipeshsinghrajput",
+      "href": "https://leetcode.com/dipeshsinghrajput"
+    },
+    {
+      "label": "CodeChef",
+      "value": "codechef.com/users/dipesh_01",
+      "href": "https://www.codechef.com/users/dipesh_01"
+    }
+  ],
+  "heroStats": {
+    "storiesCount": "100+",
+    "leetcodeCount": "810+",
+    "codechefRank": "4* max rating",
+    "certCount": "3"
+  }
+}
