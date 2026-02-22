@@ -28,7 +28,7 @@
     },
     {
       "title": "Backend",
-      "items": ["Node.js", "Express", "MongoDB"],
+      "items": ["Node.js", "Express", "MongoDB", "GOLang", "PostgreSQL", "Redis", "Kafka"],
       "progress": 86
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "title": "Programming",
-      "items": ["C++", "C", "Python", "SQL"],
+      "items": ["C++", "C", "JavaScript", "Python", "SQL"],
       "progress": 88
     },
     {
@@ -116,7 +116,7 @@
   "heroStats": {
     "storiesCount": "100+",
     "leetcodeCount": "810+",
-    "codechefRank": "4* max rating",
+    "codechefRank": "4* max",
     "certCount": "3"
   }
 }
